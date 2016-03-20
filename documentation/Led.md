@@ -1,7 +1,5 @@
 # Led
 
-# LED
-
 ## LED, Drivers Enablement
 
 Compile your kernel, once compiled we enable all needed drivers
