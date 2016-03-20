@@ -13,3 +13,7 @@
 To continue reading please go to Minnowboard Max Wiki: http://elinux.org/Minnowboard:MinnowMaxDistros
  
 We do not want to rewrite things :)
+
+# BIOS
+
+http://elinux.org/Minnowboard:MaxBios
