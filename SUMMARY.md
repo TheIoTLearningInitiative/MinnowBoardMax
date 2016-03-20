@@ -1,7 +1,8 @@
 # Summary
 
+* [Introduction](README.md)
 * [Introduction](documentation/Introduction.md)
 * [SandBox](documentation/Sandbox.md)
 * Subsystems
-   * Camera
+   * [Camera](documentation/Camera.md)
 
