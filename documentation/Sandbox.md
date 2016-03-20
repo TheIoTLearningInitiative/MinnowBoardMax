@@ -17,3 +17,6 @@ We do not want to rewrite things :)
 # BIOS
 
 http://elinux.org/Minnowboard:MaxBios
+
+# Hardware
+<center><img src="https://ms-iot.github.io/content/images/PinMappings/MBM_Pinout.png"></center>
