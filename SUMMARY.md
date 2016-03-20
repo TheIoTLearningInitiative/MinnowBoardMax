@@ -2,7 +2,6 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
-* [SandBox](documentation/Sandbox.md)
 * Build Systems
 * Subsystems
    * [Camera](documentation/Camera.md)
@@ -12,6 +11,7 @@
    * [Pwm](documentation/Pwm.md)
    * [Serial Peripheral Interface](documentation/SerialPeripheralInterface.md)
    * [Led](documentation/Led.md)
+* [SandBox](documentation/Sandbox.md)
 * Libraries
    * [MRAA](documentation/Mraa.md)
    * [UPM](documentation/Upm.md)
