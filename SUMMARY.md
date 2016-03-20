@@ -6,6 +6,6 @@
 * Subsystems
    * [Camera](documentation/Camera.md)
    * [Audio](documentation/Audio.md)
-   * I2C
    * [General Purpose Input Output](GeneralPurposeInputOutput.md)
+   * I2C
 
