@@ -10,5 +10,5 @@
    * [I2C](documentation/I2c.md)
    * [Pwm](documentation/Pwm.md)
    * [Serial Peripheral Interface](SerialPeripheralInterface.md)
-   * Led
+   * [Led](documentation/Led.md)
 
