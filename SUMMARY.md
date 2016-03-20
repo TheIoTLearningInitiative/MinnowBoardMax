@@ -3,6 +3,7 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * Build Systems
+   * Yocto
 * Subsystems
    * [Camera](documentation/Camera.md)
    * [Audio](documentation/Audio.md)
