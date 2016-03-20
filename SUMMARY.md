@@ -8,5 +8,5 @@
    * [Audio](documentation/Audio.md)
    * [General Purpose Input Output](GeneralPurposeInputOutput.md)
    * [I2C](documentation/I2c.md)
-   * Pwm
+   * [Pwm](documentation/Pwm.md)
 
