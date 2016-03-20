@@ -6,4 +6,5 @@
 * Subsystems
    * [Camera](documentation/Camera.md)
    * [Audio](documentation/Audio.md)
+   * General Purpose Input Output
 
