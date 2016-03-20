@@ -59,7 +59,6 @@ Enable all PWM needed drivers via menuconfig and compile your Kernel
     root@minnowboard:# cat /sys/class/pwm/pwmchip0/pwm0/period
     root@minnowboard:# cat /sys/class/pwm/pwmchip0/pwm0/duty_cycle
 
-# End of File
 
 
 
