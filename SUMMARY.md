@@ -9,4 +9,5 @@
    * [General Purpose Input Output](GeneralPurposeInputOutput.md)
    * [I2C](documentation/I2c.md)
    * [Pwm](documentation/Pwm.md)
+   * Serial Peripheral Interface
 
