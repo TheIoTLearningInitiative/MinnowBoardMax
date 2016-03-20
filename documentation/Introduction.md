@@ -19,7 +19,6 @@ If you want Lures not currently listed contact CircuitCo at sales@circuitco.com.
 For a list of currently planned Lures see:
  http://elinux.org/Minnowboard:MaxLures
  
-
 ## UEFI
 
 > UEFI devleopment on MinnowBoard covers firmware, pre-OS applications, drivers, and OS loaders.
