@@ -82,7 +82,6 @@ Tbd
 * SPI Serial Peripheral Interface
 * UART Universal Asynchronous Receiver Transmitter
 
-
 ## Github
 
 > GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over eight million people use GitHub to build amazing things together.
