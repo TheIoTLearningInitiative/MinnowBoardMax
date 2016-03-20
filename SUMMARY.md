@@ -11,8 +11,8 @@
    * [Pwm](documentation/Pwm.md)
    * [Serial Peripheral Interface](documentation/SerialPeripheralInterface.md)
    * [Led](documentation/Led.md)
-* [SandBox](documentation/Sandbox.md)
 * Libraries
    * [MRAA](documentation/Mraa.md)
    * [UPM](documentation/Upm.md)
+* [SandBox](documentation/Sandbox.md)
 
