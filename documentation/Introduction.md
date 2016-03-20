@@ -82,9 +82,6 @@ Tbd
 * SPI Serial Peripheral Interface
 * UART Universal Asynchronous Receiver Transmitter
 
-## Google
-
-> Google’s mission is to organize the world’s information and make it universally accessible and useful
 
 ## Github
 
