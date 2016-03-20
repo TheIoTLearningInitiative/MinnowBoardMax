@@ -7,5 +7,5 @@
    * [Camera](documentation/Camera.md)
    * [Audio](documentation/Audio.md)
    * [General Purpose Input Output](GeneralPurposeInputOutput.md)
-   * I2C
+   * [I2C](documentation/I2c.md)
 
