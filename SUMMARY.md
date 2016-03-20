@@ -2,6 +2,7 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
+* Build Systems
 * [SandBox](documentation/Sandbox.md)
 * Subsystems
    * [Camera](documentation/Camera.md)
@@ -14,5 +15,4 @@
 * Libraries
    * [MRAA](documentation/Mraa.md)
    * [UPM](documentation/Upm.md)
-* Build Systems
 
