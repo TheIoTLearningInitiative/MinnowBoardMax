@@ -1,4 +1,4 @@
-# GPIO General Purpose Input Output
+# General Purpose Input Output
 
 ## GPIO, Kernel Driver Tests
 
