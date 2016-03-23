@@ -16,7 +16,6 @@ Yocto
 
 ## Building Yocto Minnnowboard MAX
 
-
 ```sh
     user@host:~$ mkdir source
     user@host:~$ cd source
