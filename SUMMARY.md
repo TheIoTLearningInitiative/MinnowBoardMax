@@ -6,7 +6,6 @@
    * [Processor](documentation/Processor.md)
 * Customization
    * [Lures](documentation/Lures.md)
-   * Tbd
 * Build Systems
    * [Yocto](documentation/Yocto.md)
 * [BIOS](documentation/Bios.md)
