@@ -2,6 +2,7 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
+* Hardware
 * Build Systems
    * [Yocto](documentation/Yocto.md)
 * [BIOS](documentation/Bios.md)
@@ -24,5 +25,4 @@
 * Programming Languages
    * [Python](documentation/Python.md)
 * [SandBox](documentation/Sandbox.md)
-* Hardware
 
