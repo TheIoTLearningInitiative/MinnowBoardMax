@@ -3,7 +3,7 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * Hardware
-   * Lures
+   * [Lures](documentation/Lures.md)
 * Build Systems
    * [Yocto](documentation/Yocto.md)
 * [BIOS](documentation/Bios.md)
