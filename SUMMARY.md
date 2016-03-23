@@ -16,5 +16,4 @@
    * [MRAA](documentation/Mraa.md)
    * [UPM](documentation/Upm.md)
 * [SandBox](documentation/Sandbox.md)
-* Kernel
 
