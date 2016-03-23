@@ -4,6 +4,7 @@
 * [Introduction](documentation/Introduction.md)
 * Hardware
    * [Lures](documentation/Lures.md)
+   * Processor
 * Build Systems
    * [Yocto](documentation/Yocto.md)
 * [BIOS](documentation/Bios.md)
