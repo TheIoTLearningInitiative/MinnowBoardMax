@@ -22,6 +22,7 @@
        * [Pwm](documentation/Pwm.md)
        * [Serial Peripheral Interface](documentation/SerialPeripheralInterface.md)
        * [Led](documentation/Led.md)
+       * UART
    * [Package Management](documentation/PackageManagement.md)
    * Libraries
        * [MRAA](documentation/Mraa.md)
