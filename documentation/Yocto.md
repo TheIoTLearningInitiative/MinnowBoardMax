@@ -16,6 +16,9 @@ Yocto
 
 ## Building Yocto Minnnowboard MAX
 
+
+- [Minnowboard MAX Wiki Yocto Project](http://wiki.minnowboard.org/Yocto_Project)
+
 ```sh
     user@host:~$ mkdir source
     user@host:~$ cd source
