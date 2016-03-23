@@ -5,6 +5,7 @@
 * Hardware
    * [Processor](documentation/Processor.md)
    * [Interfaces](documentation/Interfaces.md)
+   * PCIe
 * Customization
    * [Lures](documentation/Lures.md)
 * Build Systems
