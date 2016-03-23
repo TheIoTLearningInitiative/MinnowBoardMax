@@ -1,6 +1,6 @@
 # MRAA
 
-> Also knwon as libmraa, a Low Level Skeleton Library for Communication on GNU/Linux platforms
+> Also known as libmraa, a Low Level Skeleton Library for Communication on GNU/Linux platforms
 
 > Low Level Skeleton Library for IO Communication on GNU/Linux platforms
 
