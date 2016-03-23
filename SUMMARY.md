@@ -4,6 +4,7 @@
 * [Introduction](documentation/Introduction.md)
 * Build Systems
    * [Yocto](documentation/Yocto.md)
+* Operating Systems
 * Linux
    * [Kernel](documentation/Kernel.md)
    * Subsystems
@@ -18,5 +19,4 @@
    * [MRAA](documentation/Mraa.md)
    * [UPM](documentation/Upm.md)
 * [SandBox](documentation/Sandbox.md)
-* Operating Systems
 
