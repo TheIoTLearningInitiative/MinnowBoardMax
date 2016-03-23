@@ -71,3 +71,13 @@ Universal Asynchronous Receiver-Transmitter
 - [MinnowBoard Problem with UART](http://lists.elinux.org/pipermail/elinux-minnowboard/Week-of-Mon-20150622/001662.html)
 - [MinnowBoard Using HS UARTs in UEFI](http://lists.elinux.org/pipermail/elinux-minnowboard/Week-of-Mon-20150817/001826.html)
 
+## Links
+
+- http://elinux.org/Minnowboard:MinnowMaxYoctoProject
+- http://wiki.minnowboard.org/Yocto_Project
+- http://wiki.minnowboard.org/Projects/Maker_Yocto
+- http://knyeoh.blogspot.mx/2014/12/how-to-build-yocto-rt-for-minnowboard.html
+- http://www.yoctoproject.org/docs/latest/mega-manual/mega-manual.html
+- http://www.yoctoproject.org/docs/latest/yocto-project-qs/yocto-project-qs.html
+- http://git.yoctoproject.org/cgit/cgit.cgi/meta-minnow/tree/README?h=master
+
