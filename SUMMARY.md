@@ -30,5 +30,6 @@
 * Programming Languages
    * [Python](documentation/Python.md)
        * [Calamari Lure](documentation/PythonCalamariLure.md)
+           * 7 Segments
 * [SandBox](documentation/Sandbox.md)
 
