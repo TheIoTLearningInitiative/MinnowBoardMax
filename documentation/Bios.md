@@ -17,7 +17,7 @@ Taken from http://elinux.org/Minnowboard:MaxBios#BIOS_menu
 
 - Reboot your board and keep pressing F2 until you get into the BIOS menu, make sure the below configurations are set
 
-
+```sh
     LPSS & SCC Devices Mode (ACPI Mod)
     PCI Mode / __ACPI Mod__
 
@@ -35,4 +35,4 @@ Taken from http://elinux.org/Minnowboard:MaxBios#BIOS_menu
     Enable / Disable
     Note: This is only available when HSUART #2 is on
     Note: Hardware Flow Control is not available, since CTS / RTS are not pulled out and available
-
+```sh
