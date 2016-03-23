@@ -3,7 +3,7 @@
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
 * Hardware
-   * Processor
+   * [Processor](documentation/Processor.md)
    * [Lures](documentation/Lures.md)
 * Build Systems
    * [Yocto](documentation/Yocto.md)
