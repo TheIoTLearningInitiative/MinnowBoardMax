@@ -4,7 +4,7 @@
 * [Introduction](documentation/Introduction.md)
 * Build Systems
    * [Yocto](documentation/Yocto.md)
-* BIOS
+* [BIOS](documentation/Bios.md)
 * [Operating Systems](documentation/OperatingSystems.md)
 * Linux
    * [Kernel](documentation/Kernel.md)
