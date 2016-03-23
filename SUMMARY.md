@@ -4,8 +4,8 @@
 * [Introduction](documentation/Introduction.md)
 * Hardware
    * [Processor](documentation/Processor.md)
-   * [Lures](documentation/Lures.md)
 * Customization
+   * [Lures](documentation/Lures.md)
    * Tbd
 * Build Systems
    * [Yocto](documentation/Yocto.md)
