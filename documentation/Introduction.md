@@ -29,8 +29,6 @@ Want to learn GIT? [GIT --distributed-even-if-your-workflow-isnt](https://git-sc
 
 [](https://ms-iot.github.io/content/images/PinMappings/MBM_Pinout.png)
 
-# End of File
-
 
 
 
