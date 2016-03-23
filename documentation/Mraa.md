@@ -15,6 +15,8 @@
 
 - [MRAA Github](https://github.com/intel-iot-devkit/mraa)
 
+## Manual Installation
+
 Clone, compile and install mraa 
 
     root@Minnowboard:~# apt-get update
