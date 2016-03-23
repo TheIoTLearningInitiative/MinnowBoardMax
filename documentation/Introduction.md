@@ -35,10 +35,6 @@ For a list of currently planned Lures see:
 
 [Minnowboard Max Lures](http://elinux.org/Minnowboard:MaxLures)
 
-## Sensors
-
-Tbd
-
 ## Interfaces
 
 * GPIO General Purpose Input Output
