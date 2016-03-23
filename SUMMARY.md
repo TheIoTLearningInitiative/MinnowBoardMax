@@ -30,7 +30,7 @@
 * Programming Languages
    * [Python](documentation/Python.md)
        * [Calamari Lure](documentation/PythonCalamariLure.md)
-           * Main
+           * [Main](documentation/PythonCalamariLureMain.md)
            * [7 Segments](documentation/PythonCalamariLure7Segments.md)
            * [Buttons](documentation/PythonCalamariLureButtons.md)
            * [Pulse Width Modulation](documentation/PythonCalamariLurePulseWidthModulation.md)
