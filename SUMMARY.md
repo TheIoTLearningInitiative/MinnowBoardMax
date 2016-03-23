@@ -4,7 +4,7 @@
 * [Introduction](documentation/Introduction.md)
 * Hardware
    * [Processor](documentation/Processor.md)
-   * [Interfaces](Interfaces.md)
+   * [Interfaces](documentation/Interfaces.md)
 * Customization
    * [Lures](documentation/Lures.md)
 * Build Systems
