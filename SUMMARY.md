@@ -34,5 +34,6 @@
            * [Buttons](documentation/PythonCalamariLureButtons.md)
            * [Pulse Width Modulation](documentation/PythonCalamariLurePulseWidthModulation.md)
            * [Red Green Blue](documentation/RedGreenBlue.md)
+           * Main
 * [SandBox](documentation/Sandbox.md)
 
