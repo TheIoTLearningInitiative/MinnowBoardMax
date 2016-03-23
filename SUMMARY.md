@@ -8,6 +8,9 @@
 * [Operating Systems](documentation/OperatingSystems.md)
 * Linux
    * [Kernel](documentation/Kernel.md)
+   * Libraries
+       * [MRAA](documentation/Mraa.md)
+       * [UPM](documentation/Upm.md)
    * Subsystems
        * [Camera](documentation/Camera.md)
        * [Audio](documentation/Audio.md)
@@ -16,8 +19,5 @@
        * [Pwm](documentation/Pwm.md)
        * [Serial Peripheral Interface](documentation/SerialPeripheralInterface.md)
        * [Led](documentation/Led.md)
-* Libraries
-   * [MRAA](documentation/Mraa.md)
-   * [UPM](documentation/Upm.md)
 * [SandBox](documentation/Sandbox.md)
 
