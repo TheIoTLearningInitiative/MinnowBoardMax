@@ -19,13 +19,6 @@ If you want Lures not currently listed contact CircuitCo at sales@circuitco.com.
 For a list of currently planned Lures see:
  http://elinux.org/Minnowboard:MaxLures
  
-## UEFI
-
-> UEFI devleopment on MinnowBoard covers firmware, pre-OS applications, drivers, and OS loaders.
-> MinnowBoard allows development of low-level features on Intel® architecture in an open source
-> environment.
-
-[Intel® Architecture Firmware Resource Center - Minnowboard MAX](https://firmware.intel.com/projects/minnowboard-max)
 
 ## Debian
 
