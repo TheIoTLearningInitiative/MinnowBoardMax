@@ -21,10 +21,6 @@ For a list of currently planned Lures see:
  
 
 
-## Programming
-
-Tbd
-
 ## Python
 
 > Python is a widely used general-purpose, high-level programming language
