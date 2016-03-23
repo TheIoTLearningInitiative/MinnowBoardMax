@@ -1,6 +1,19 @@
 # MRAA
 
-Also knwon as libmraa, a Low Level Skeleton Library for Communication on GNU/Linux platforms
+> Also knwon as libmraa, a Low Level Skeleton Library for Communication on GNU/Linux platforms
+
+> Low Level Skeleton Library for IO Communication on GNU/Linux platforms
+
+> C/C++ library with bindings to JavaScript and Python to interface with the I/O on the Intel® Galileo board, Intel® Edison board, and other platforms. With board detection done at runtime, you can create portable code that works across multiple platforms.
+
+* AIO Sensors requiring an ADC value to be read
+* I2C Modules using the i2c bus
+* SPI Modules using the SPI bus
+* GPIO Modules using GPIOs directly
+* PWM Modules using a PWM capable GPIO pin
+* UART Modules using a serial connection (RX/TX)
+
+- [MRAA Github](https://github.com/intel-iot-devkit/mraa)
 
 Clone, compile and install mraa 
 
