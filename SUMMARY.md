@@ -5,6 +5,7 @@
 * Build Systems
    * [Yocto](documentation/Yocto.md)
 * Linux
+   * [Kernel](documentation/Kernel.md)
    * Subsystems
        * [Camera](documentation/Camera.md)
        * [Audio](documentation/Audio.md)
@@ -13,7 +14,6 @@
        * [Pwm](documentation/Pwm.md)
        * [Serial Peripheral Interface](documentation/SerialPeripheralInterface.md)
        * [Led](documentation/Led.md)
-   * [Kernel](documentation/Kernel.md)
 * Libraries
    * [MRAA](documentation/Mraa.md)
    * [UPM](documentation/Upm.md)
