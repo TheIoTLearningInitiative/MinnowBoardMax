@@ -1,5 +1,8 @@
 # Introduction
 
+
+
+
 ## Resources
 
 - [Minnowboard-MAX Website](http://www.minnowboard.org/meet-minnowboard-max/)
@@ -11,7 +14,7 @@
 - [Google+ Page MinnowBoard](https://plus.google.com/+MinnowboardOrg/posts)
 - [Mailing List](http://lists.elinux.org/mailman/listinfo/elinux-minnowboard)
 - IRC channel
-  - #minnowboard@irc.freenode.net.  
+  - channel minnowboard @ irc.freenode.net.
 - [Mouser, MinnowBoard Lures](http://www.mouser.com/new/MinnowBoard/minnowboard-max-lures/)
 - [Tin Can Tools, Silverjaw Lure](http://www.tincantools.com/MinowBoard_Max_Add-ons/Silverjaw_Lure.html)
 
