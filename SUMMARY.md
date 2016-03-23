@@ -19,5 +19,6 @@
    * Libraries
        * [MRAA](documentation/Mraa.md)
        * [UPM](documentation/Upm.md)
+   * Installation
 * [SandBox](documentation/Sandbox.md)
 
