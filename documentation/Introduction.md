@@ -14,16 +14,11 @@
 - [Google+ Page MinnowBoard](https://plus.google.com/+MinnowboardOrg/posts)
 - [Mailing List](http://lists.elinux.org/mailman/listinfo/elinux-minnowboard)
 - IRC channel
-  - channel minnowboard @ irc.freenode.net.
+  - channel minnowboard @ irc.freenode.net
 - [Mouser, MinnowBoard Lures](http://www.mouser.com/new/MinnowBoard/minnowboard-max-lures/)
 - [Tin Can Tools, Silverjaw Lure](http://www.tincantools.com/MinowBoard_Max_Add-ons/Silverjaw_Lure.html)
 
 If you want Lures not currently listed contact CircuitCo at sales@circuitco.com.
-For a list of currently planned Lures see:
- http://elinux.org/Minnowboard:MaxLures
- 
-
-
 
 ## Lures
 
