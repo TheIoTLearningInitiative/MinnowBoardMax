@@ -17,7 +17,7 @@
        * [Pwm](documentation/Pwm.md)
        * [Serial Peripheral Interface](documentation/SerialPeripheralInterface.md)
        * [Led](documentation/Led.md)
-   * Package Management
+   * [Package Management](PackageManagement.md)
    * Libraries
        * [MRAA](documentation/Mraa.md)
        * [UPM](documentation/Upm.md)
