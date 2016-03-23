@@ -31,6 +31,6 @@
    * [Python](documentation/Python.md)
        * [Calamari Lure](documentation/PythonCalamariLure.md)
            * [7 Segments](documentation/PythonCalamariLure7Segments.md)
-           * Buttons
+           * [Buttons](documentation/PythonCalamariLureButtons.md)
 * [SandBox](documentation/Sandbox.md)
 
