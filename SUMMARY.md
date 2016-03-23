@@ -33,5 +33,6 @@
            * [7 Segments](documentation/PythonCalamariLure7Segments.md)
            * [Buttons](documentation/PythonCalamariLureButtons.md)
            * [Pulse Width Modulation](documentation/PythonCalamariLurePulseWidthModulation.md)
+           * Red Green Blue
 * [SandBox](documentation/Sandbox.md)
 
