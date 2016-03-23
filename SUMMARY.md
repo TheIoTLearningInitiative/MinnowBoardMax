@@ -4,6 +4,7 @@
 * [Introduction](documentation/Introduction.md)
 * Build Systems
    * [Yocto](documentation/Yocto.md)
+* BIOS
 * [Operating Systems](documentation/OperatingSystems.md)
 * Linux
    * [Kernel](documentation/Kernel.md)
@@ -19,5 +20,4 @@
    * [MRAA](documentation/Mraa.md)
    * [UPM](documentation/Upm.md)
 * [SandBox](documentation/Sandbox.md)
-* BIOS
 
