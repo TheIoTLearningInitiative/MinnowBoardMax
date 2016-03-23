@@ -14,6 +14,7 @@ Yocto
 - [Code Project Adding 3rd Party Components to Yocto/OpenEmbedded Linux](http://www.codeproject.com/Articles/774826/Adding-rd-party-components-to-Yocto-OpenEmbedded-L)
 - [Yocto Git Server](http://git.yoctoproject.org/)
 
+## Building Yocto Minnnowboard MAX
 
 
 ```sh
