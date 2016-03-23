@@ -3,8 +3,6 @@ Kernel
 
 ## Native Compilation
 
-__All these steps in your Minnowboard MAX__
-
 Check your current Kernel version
 
 ```sh
