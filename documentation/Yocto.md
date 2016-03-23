@@ -16,6 +16,7 @@ Yocto
 
 ## Building Yocto Minnnowboard MAX
 
+> 
 
 - [Minnowboard MAX Wiki Yocto Project](http://wiki.minnowboard.org/Yocto_Project)
 
