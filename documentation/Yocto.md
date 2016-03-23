@@ -3,6 +3,7 @@
 Yocto
 ==
 
+```sh
     user@host:~$ mkdir source
     user@host:~$ cd source
     user@host:~$ git clone -b fido git://git.yoctoproject.org/poky
@@ -18,6 +19,7 @@ Yocto
     $ sudo $HOME/source/poky/scripts/contrib/mkefidisk.sh HOST_DEVICE \
     tmp/deploy/images/intel-corei7-64/core-image-minimal-intel-corei7-64.hddimg \
     TARGET_DEVICE
+```
 
 ## Links
 
