@@ -20,5 +20,6 @@
    * Libraries
        * [MRAA](documentation/Mraa.md)
        * [UPM](documentation/Upm.md)
+   * Package Management
 * [SandBox](documentation/Sandbox.md)
 
