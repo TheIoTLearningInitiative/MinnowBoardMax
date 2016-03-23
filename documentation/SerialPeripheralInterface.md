@@ -1,5 +1,9 @@
-# Serial Peripheral Interface
+Serial Peripheral Interface
+==
 
+- [Bill Traynor Flashing MinnowBoard MAX With the SPI Hook in Linux](http://billtraynor.com/post/2015/11/12/flashing-minnowboard-max-with-the-spi-hook-in-linux/)
+
+```sh
     CC [M]  drivers/iio/adc/mcp320x.o
     CC [M]  drivers/spi/spidev.o
     CC [M]  drivers/spi/spi-dw.o
@@ -23,6 +27,4 @@
     LD [M]  drivers/spi/spi-pxa2xx-platform.ko
     CC      drivers/spi/spidev.mod.o
     LD [M]  drivers/spi/spidev.ko
-
-# End of File
-
+```
