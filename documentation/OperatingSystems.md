@@ -12,5 +12,5 @@ Operating Systems
 > However, there are a few things to keep in mind...
 
 To continue reading please go to [Minnowboard Max Wiki Linux](http://wiki.minnowboard.org/Linux)
- 
+
 We do not want to rewrite things :)
