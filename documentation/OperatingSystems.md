@@ -11,11 +11,9 @@ Operating Systems
 
 [Debian Homepage](https://www.debian.org/)
 
-## Debian Advanced Packaging Tool
+### Debian Advanced Packaging Tool
 
-> The Advanced Package Tool, or APT, is a free software user interface that
-> works with core libraries to handle the installation and removal of software
-> on the Debian GNU/Linux distribution and its variants.
+> The Advanced Package Tool, or APT, is a free software user interface that works with core libraries to handle the installation and removal of software on the Debian GNU/Linux distribution and its variants.
 
 ```sh
     root@minnowboard:~# apt-get install pip
