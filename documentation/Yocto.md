@@ -1,6 +1,7 @@
 Yocto
 ==
 
+
 ```sh
     user@host:~$ mkdir source
     user@host:~$ cd source
