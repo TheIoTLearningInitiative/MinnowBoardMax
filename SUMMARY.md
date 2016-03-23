@@ -21,7 +21,7 @@
    * Libraries
        * [MRAA](documentation/Mraa.md)
        * [UPM](documentation/Upm.md)
-* [Programming Languages](documentation/ProgrammingLanguages.md)
+* Programming Languages
    * [Python](documentation/Python.md)
 * [SandBox](documentation/Sandbox.md)
 
