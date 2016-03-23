@@ -29,6 +29,6 @@
        * [UPM](documentation/Upm.md)
 * Programming Languages
    * [Python](documentation/Python.md)
-       * Calamari Lure
+       * [Calamari Lure](documentation/PythonCalamariLure.md)
 * [SandBox](documentation/Sandbox.md)
 
