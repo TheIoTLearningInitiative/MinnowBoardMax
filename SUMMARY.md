@@ -7,7 +7,7 @@
 * [BIOS](documentation/Bios.md)
 * [Operating Systems](documentation/OperatingSystems.md)
 * [Linux](documentation/Linux.md)
-   * Installation
+   * [Installation](documentation/Installation.md)
    * [Kernel](documentation/Kernel.md)
    * Subsystems
        * [Camera](documentation/Camera.md)
