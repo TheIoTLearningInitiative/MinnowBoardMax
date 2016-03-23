@@ -15,6 +15,7 @@
    * [Installation](documentation/Installation.md)
    * [Kernel](documentation/Kernel.md)
    * Subsystems
+       * [UART](documentation/Uart.md)
        * [Camera](documentation/Camera.md)
        * [Audio](documentation/Audio.md)
        * [General Purpose Input Output](documentation/GeneralPurposeInputOutput.md)
@@ -22,7 +23,6 @@
        * [Pwm](documentation/Pwm.md)
        * [Serial Peripheral Interface](documentation/SerialPeripheralInterface.md)
        * [Led](documentation/Led.md)
-       * [UART](documentation/Uart.md)
    * [Package Management](documentation/PackageManagement.md)
    * Libraries
        * [MRAA](documentation/Mraa.md)
