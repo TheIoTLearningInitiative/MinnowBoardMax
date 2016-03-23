@@ -35,4 +35,4 @@ Taken from http://elinux.org/Minnowboard:MaxBios#BIOS_menu
     Enable / Disable
     Note: This is only available when HSUART #2 is on
     Note: Hardware Flow Control is not available, since CTS / RTS are not pulled out and available
-```sh
+```
