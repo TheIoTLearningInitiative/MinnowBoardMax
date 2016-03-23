@@ -1,8 +1,5 @@
 # Introduction
 
-
-
-
 ## Resources
 
 - [Minnowboard-MAX Website](http://www.minnowboard.org/meet-minnowboard-max/)
