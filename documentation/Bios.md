@@ -11,7 +11,7 @@ BIOS
 - U-Boot
 - WinZent
 
-## UEFI
+### UEFI
 
 > UEFI devleopment on MinnowBoard covers firmware, pre-OS applications, drivers, and OS loaders.
 > MinnowBoard allows development of low-level features on Intel® architecture in an open source
@@ -19,7 +19,7 @@ BIOS
 
 [Intel® Architecture Firmware Resource Center - Minnowboard MAX](https://firmware.intel.com/projects/minnowboard-max)
 
-## BIOS Configuration Example
+## UEFI Configuration Example
 
 Taken from http://elinux.org/Minnowboard:MaxBios#BIOS_menu
 
