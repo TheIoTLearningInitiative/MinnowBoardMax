@@ -24,4 +24,5 @@
 * Programming Languages
    * [Python](documentation/Python.md)
 * [SandBox](documentation/Sandbox.md)
+* Hardware
 
