@@ -5,7 +5,7 @@
 * Build Systems
    * [Yocto](documentation/Yocto.md)
 * Linux
-   * Kernel
+   * [Kernel](Kernel.md)
 * Subsystems
    * [Camera](documentation/Camera.md)
    * [Audio](documentation/Audio.md)
