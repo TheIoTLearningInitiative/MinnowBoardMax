@@ -21,8 +21,7 @@ UPD Updates
 
 ## Manual Installation
 
-Sensor/Actuator repository for libmraa
-
+```sh
     root@Minnowboard:~# apt-get update
     root@Minnowboard:~# apt-get install cmake pkg-config swig
     user@Minnowboard:~$ git clone https://github.com/intel-iot-devkit/upm.git
@@ -32,3 +31,4 @@ Sensor/Actuator repository for libmraa
     user@Minnowboard:~$ cmake .. -DBUILDSWIGNODE=OFF
     user@Minnowboard:~$ make
     root@Minnowboard:~# make install
+```
