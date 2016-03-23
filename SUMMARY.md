@@ -22,6 +22,6 @@
        * [MRAA](documentation/Mraa.md)
        * [UPM](documentation/Upm.md)
 * [Programming Languages](documentation/ProgrammingLanguages.md)
-   * Python
+   * [Python](documentation/Python.md)
 * [SandBox](documentation/Sandbox.md)
 
