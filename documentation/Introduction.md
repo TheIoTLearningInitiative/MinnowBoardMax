@@ -28,18 +28,7 @@ If you want Lures not currently listed contact CircuitCo at sales@circuitco.com.
 
 ## Setup Guides
 
-- [SC Elementary MinnowBoard Max Quick Setup Guide
-](http://scelementary.com/2015/03/10/minnowboard-max-introduction.html)
-
-## Github
-
-> GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over eight million people use GitHub to build amazing things together.
-
-Want to learn GIT? [GIT --distributed-even-if-your-workflow-isnt](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-
-[](https://ms-iot.github.io/content/images/PinMappings/MBM_Pinout.png)
-
-
+- [SC Elementary MinnowBoard Max Quick Setup Guide](http://scelementary.com/2015/03/10/minnowboard-max-introduction.html)
 
 
 
