@@ -7,6 +7,7 @@
 * [BIOS](documentation/Bios.md)
 * [Operating Systems](documentation/OperatingSystems.md)
 * [Linux](documentation/Linux.md)
+   * Installation
    * [Kernel](documentation/Kernel.md)
    * Subsystems
        * [Camera](documentation/Camera.md)
@@ -19,6 +20,5 @@
    * Libraries
        * [MRAA](documentation/Mraa.md)
        * [UPM](documentation/Upm.md)
-   * Installation
 * [SandBox](documentation/Sandbox.md)
 
