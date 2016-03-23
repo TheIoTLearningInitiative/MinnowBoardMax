@@ -27,13 +27,7 @@ For a list of currently planned Lures see:
 
 [Python Homepage](https://www.python.org/)
 
-## Python PIP Package Management System
 
-> pip is a package management system used to install and manage software
-> packages written in Python. Many packages can be found in the Python Package
-> Index (PyPI).
-
-    root@minnowboard:~# pip install psutil plotly
 
 ## Lures
 
