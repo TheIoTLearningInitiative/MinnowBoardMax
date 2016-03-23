@@ -5,6 +5,7 @@
 * Hardware
    * [Processor](documentation/Processor.md)
    * [Lures](documentation/Lures.md)
+* Customization
 * Build Systems
    * [Yocto](documentation/Yocto.md)
 * [BIOS](documentation/Bios.md)
@@ -27,5 +28,4 @@
 * Programming Languages
    * [Python](documentation/Python.md)
 * [SandBox](documentation/Sandbox.md)
-* Customization
 
