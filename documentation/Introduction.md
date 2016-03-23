@@ -20,12 +20,6 @@
 
 If you want Lures not currently listed contact CircuitCo at sales@circuitco.com.
 
-## Lures
-
-> MinnowBoard Lure Daughter cards are provided separately. They can be custom developed to expose features and interfaces as required for developer applications. They are “stackable” up to a depth of four devices.
-
-[Minnowboard Max Lures](http://elinux.org/Minnowboard:MaxLures)
-
 ## Interfaces
 
 * GPIO General Purpose Input Output
