@@ -4,6 +4,7 @@
 * [Introduction](documentation/Introduction.md)
 * Build Systems
    * [Yocto](documentation/Yocto.md)
+* Linux
 * Subsystems
    * [Camera](documentation/Camera.md)
    * [Audio](documentation/Audio.md)
@@ -16,5 +17,4 @@
    * [MRAA](documentation/Mraa.md)
    * [UPM](documentation/Upm.md)
 * [SandBox](documentation/Sandbox.md)
-* Linux
 
