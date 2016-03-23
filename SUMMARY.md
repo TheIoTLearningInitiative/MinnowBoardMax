@@ -6,7 +6,7 @@
    * [Yocto](documentation/Yocto.md)
 * [BIOS](documentation/Bios.md)
 * [Operating Systems](documentation/OperatingSystems.md)
-* [Linux](documentation/Linux.md)
+* Linux
    * [Installation](documentation/Installation.md)
    * [Kernel](documentation/Kernel.md)
    * Subsystems
