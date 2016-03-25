@@ -5,17 +5,6 @@
 
 http://elinux.org/Minnowboard:MaxBios
 
-# Hardware
-<center><img src="https://ms-iot.github.io/content/images/PinMappings/MBM_Pinout.png"></center>
-
-# Kernel Compilation
-
-
-## Kernel Menuconfig
-
-    user@Minnowboard:~$ cd linux
-    user@Minnowboard:~$ make menuconfig
-
 
 Universal Asynchronous Receiver-Transmitter
 ==
