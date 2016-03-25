@@ -21,7 +21,6 @@ Yocto
 - [Minnowboard Wiki Yocto Project](http://wiki.minnowboard.org/Yocto_Project)
 - [Minnowboard Wiki Maker Yocto](http://wiki.minnowboard.org/Projects/Maker_Yocto)
 
-
 ```sh
     user@host:~$ mkdir source
     user@host:~$ cd source
