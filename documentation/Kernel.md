@@ -54,3 +54,8 @@ Ready! Reboot the board and check again Kernel Version
     user@Minnowboard:~# reboot
     user@Minnowboard:~$ uname -a
 ```
+
+## Kernel Menuconfig
+
+    user@Minnowboard:~$ cd linux
+    user@Minnowboard:~$ make menuconfig
