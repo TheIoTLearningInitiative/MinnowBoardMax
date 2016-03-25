@@ -28,9 +28,7 @@ Introduction
 
 If you want Lures not currently listed contact CircuitCo at sales@circuitco.com.
 
-## Setup Guides
 
-- [SC Elementary MinnowBoard Max Quick Setup Guide Arch Linux](http://scelementary.com/2015/03/10/minnowboard-max-introduction.html)
 
 
 
