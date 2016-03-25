@@ -1,6 +1,6 @@
 Processor
 ==
 
-- [Minnowboard MAX IntelE38xx](http://wiki.minnowboard.org/IntelE38xx)
+- [Minnowboard MAX Wiki IntelE38xx](http://wiki.minnowboard.org/IntelE38xx)
 
 
