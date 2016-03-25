@@ -2,6 +2,7 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
+* Getting Started
 * Hardware
    * [Processor](documentation/Processor.md)
    * [Peripherals](documentation/Peripherals.md)
@@ -38,5 +39,4 @@
            * [Pulse Width Modulation](documentation/PythonCalamariLurePulseWidthModulation.md)
            * [Red Green Blue](documentation/RedGreenBlue.md)
 * [SandBox](documentation/Sandbox.md)
-* Getting Started
 
