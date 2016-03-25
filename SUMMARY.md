@@ -4,7 +4,7 @@
 * [Introduction](documentation/Introduction.md)
 * Hardware
    * [Processor](documentation/Processor.md)
-   * Peripherals
+   * [Peripherals](documentation/Peripherals.md)
    * [Interfaces](documentation/Interfaces.md)
    * [PCIe](documentation/Pcie.md)
 * Customization
