@@ -4,9 +4,9 @@
 * [Introduction](documentation/Introduction.md)
 * Hardware
    * [Processor](documentation/Processor.md)
+   * Peripherals
    * [Interfaces](documentation/Interfaces.md)
    * [PCIe](documentation/Pcie.md)
-   * Peripherals
 * Customization
    * [Lures](documentation/Lures.md)
 * Build Systems
