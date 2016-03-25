@@ -7,6 +7,7 @@ Processor
 
 - [Intel® Atom™ Processor E3800 Product Family](http://www.intel.com/content/www/us/en/embedded/products/bay-trail/overview.html)
 - [Intel® Atom™ Processor E3800 Product Family: Brief](http://www.intel.com/content/www/us/en/embedded/products/bay-trail/atom-processor-e3800-platform-brief.html)
+- [Intel® Atom™ Processor E3800: Datasheet](http://www.intel.com/content/www/us/en/embedded/products/bay-trail/atom-e3800-family-datasheet.html)
 - [Minnowboard MAX Wiki IntelE38xx](http://wiki.minnowboard.org/IntelE38xx)
 
 
